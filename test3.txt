@@ -1,0 +1,6 @@
+hello world
+excuse me
+computer
+architecture
+operation system
+database
